@@ -16,3 +16,5 @@ Configuration files are saved inside Versas folder in your Documents folder (%US
 A proper ragebot including double tap (tickbase manipulation)
  
 Working chams, and some misc features.
+
+There are mentions of a legit bot in the config.cpp but that was removed.
